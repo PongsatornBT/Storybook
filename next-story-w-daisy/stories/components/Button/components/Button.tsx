@@ -1,7 +1,7 @@
 import React from 'react';
 import style from './../css/button.module.css';
 /** Primary UI component for user interaction */
-const Button = (props: ButtonProps) => {
+const Button = (props: IButton) => {
   const {
     primary = false,
     size = 'medium',
