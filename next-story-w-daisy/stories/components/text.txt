@@ -1,6 +1,0 @@
-s string
-n number
-o object
-is booleen
-ary array
-lst list
